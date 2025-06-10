@@ -1,1 +1,0 @@
-Day_2/dataset_chen/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
